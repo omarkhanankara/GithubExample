@@ -8,3 +8,6 @@ Carriots
 Cherries
 Tomatoes
 Orions
+Avacado
+Ananas
+Mango
